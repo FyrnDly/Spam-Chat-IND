@@ -37,7 +37,7 @@ Program ini dibuat untuk **mengecek sebuah chat termasuk jenis *spam atau bukan*
 
 Sebelum mencoba menjalankan *program python*, **Pastikan telah menginstall package yang dibutuhkan**. Untuk menginstall package dapat dilakukan pada terminal secara langsung atau menggunakan [virtual environments](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/) dengan menggunakan pip
   ```
-  pip install pandas numpy matplotlib notebook scikit-learn
+  pip install pandas numpy matplotlib notebook scikit-learn openpyxl
   ```
   atau menggunkana file *requirements.txt*
   ```
